@@ -2,7 +2,7 @@
 
 ### Contato & Redes Sociais  
 
-[LinkedIn](https://www.linkedin.com/in/wesley-kruze)
+[LinkedIn](https://www.linkedin.com/in/wesley-kruze-flach-222867265?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ### 📊 Estatísticas GitHub  
 
