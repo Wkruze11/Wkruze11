@@ -1,16 +1,19 @@
-## Hi there 👋
+# Wesley Kruze
 
-<!--
-**Wkruze11/Wkruze11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contato & Redes Sociais  
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/wesley-kruze)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas GitHub  
+
+|   |   |
+|---|---|
+| **Github Status** | **Most Used Languages** |
+| ⭐ **Total Stars:** 0 | 🐍 **Python:** 0% |
+| 🔄 **Total Commits (last year):** 0 | 🟡 **JavaScript:** 0% |
+| 📤 **Total PRs:** 0 | 🟠 **TypeScript:** 0% |
+| 📦 **Contributed to (last year):** 0 |  |
+
+🧑‍💻 **Desenvolvedor** | "Desenvolvedor em aprendizado, focado em crescimento profissional e novas oportunidades."  
+⚙️ **Tecnologia & Desenvolvimento** – Explorando novas tecnologias e construindo projetos.  
+🚀 Em busca de conhecimento e prática em desenvolvimento full-stack.
